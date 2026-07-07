@@ -187,13 +187,13 @@ p {
 .hero-subtitle {
     color: var(--accent-color);
     font-size: 2.5rem;
-    letter-spacing: 0.8em;
+    letter-spacing: 0.4em;
     font-weight: 400;
 }
 
 .hero-date {
     color: var(--bg-white);
-    font-size: 2.2rem;
+    font-size: 2rem;
     letter-spacing: 0.4em;
     font-weight: 300;
 }
@@ -207,7 +207,7 @@ p {
 
 .hero-content h1 {
     font-family: var(--font-heading);
-    font-size: 5rem;
+    font-size: 3.5rem;
     line-height: 1.1;
     margin-bottom: 1rem;
     color: var(--bg-white);
